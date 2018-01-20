@@ -18,7 +18,7 @@
         "80": {
             "passwd": "passgfw",
             "method": "aes-128-ctr",
-            "protocol": "auth_aes128_md5_compatible",
+            "protocol": "auth_aes128_md5",
             "protocol_param": "#",
             "obfs": "tls1.2_ticket_auth_compatible",
             "obfs_param": ""
@@ -26,7 +26,7 @@
         "443": {
             "passwd": "passgfw",
             "method": "aes-128-ctr",
-            "protocol": "auth_aes128_md5_compatible",
+            "protocol": "auth_aes128_md5",
             "protocol_param": "#",
             "obfs": "tls1.2_ticket_auth_compatible",
             "obfs_param": ""
@@ -34,7 +34,7 @@
         "8888": {
             "passwd": "passgfw",
             "method": "aes-128-ctr",
-            "protocol": "auth_aes128_md5_compatible",
+            "protocol": "auth_aes128_md5",
             "protocol_param": "#",
             "obfs": "tls1.2_ticket_auth_compatible",
             "obfs_param": ""
@@ -42,7 +42,7 @@
         "8080": {
             "passwd": "passgfw",
             "method": "aes-128-ctr",
-            "protocol": "auth_aes128_md5_compatible",
+            "protocol": "auth_aes128_md5",
             "protocol_param": "#",
             "obfs": "tls1.2_ticket_auth_compatible",
             "obfs_param": ""
@@ -50,7 +50,7 @@
         "19891": {
             "passwd": "passgfw",
             "method": "aes-128-ctr",
-            "protocol": "auth_aes128_md5_compatible",
+            "protocol": "auth_aes128_md5",
             "protocol_param": "#",
             "obfs": "tls1.2_ticket_auth_compatible",
             "obfs_param": ""
